@@ -13,6 +13,8 @@
 		91BB428419C4B9BF00D84F0D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91BB428319C4B9BF00D84F0D /* Images.xcassets */; };
 		91BB428719C4B9BF00D84F0D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 91BB428519C4B9BF00D84F0D /* LaunchScreen.xib */; };
 		91BB429319C4B9C000D84F0D /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91BB429219C4B9C000D84F0D /* PostcardTests.swift */; };
+		91BB429D19C4BECD00D84F0D /* One_Piece_390_18_19color.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 91BB429C19C4BECD00D84F0D /* One_Piece_390_18_19color.jpg */; };
+		91BB429F19C4C2A600D84F0D /* One_Piece_412_10_11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 91BB429E19C4C2A600D84F0D /* One_Piece_412_10_11.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		91BB428C19C4B9C000D84F0D /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		91BB429119C4B9C000D84F0D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		91BB429219C4B9C000D84F0D /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		91BB429C19C4BECD00D84F0D /* One_Piece_390_18_19color.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = One_Piece_390_18_19color.jpg; path = ../../../../Pictures/One_Piece_390_18_19color.jpg; sourceTree = "<group>"; };
+		91BB429E19C4C2A600D84F0D /* One_Piece_412_10_11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = One_Piece_412_10_11.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		91BB427A19C4B9BF00D84F0D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				91BB429E19C4C2A600D84F0D /* One_Piece_412_10_11.jpg */,
+				91BB429C19C4BECD00D84F0D /* One_Piece_390_18_19color.jpg */,
 				91BB427B19C4B9BF00D84F0D /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,7 +198,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				91BB429F19C4C2A600D84F0D /* One_Piece_412_10_11.jpg in Resources */,
 				91BB428219C4B9BF00D84F0D /* Main.storyboard in Resources */,
+				91BB429D19C4BECD00D84F0D /* One_Piece_390_18_19color.jpg in Resources */,
 				91BB428719C4B9BF00D84F0D /* LaunchScreen.xib in Resources */,
 				91BB428419C4B9BF00D84F0D /* Images.xcassets in Resources */,
 			);
